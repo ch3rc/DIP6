@@ -28,6 +28,39 @@ def help():
     print("Entropy and compression ration are then calculated")
 
 
+def L_avg_bits(codes, lut, probs):
+    holder = []
+    for i in range(len(lut)):
+        if lut[i] == 0 and probs[i] == 0.0:
+            continue
+        elif lut[i] == 0 and probs[i] != 0.0:
+            holder.append((probs[i], 0))
+        else:
+            for p in sorted(codes):
+                if p[0] == lut[i]:
+                    holder.append((probs[i], len(p[1])))
+
+    # Lavg bit length
+    Lavg = 0.0
+    for prob, length in holder:
+        Lavg += prob * length
+
+    return Lavg
+
+
+def comp_R(avg):
+    return 8 / avg
+
+
+def entropy(probs):
+    sum = 0.0
+    for prob in probs:
+        if prob != 0:
+            sum += prob * math.log2(prob)
+
+    return sum * (-1)
+
+
 def huffman_codes(args):
     img_name = args[0]
     search_directory = "C:\\Users\\codyh\\PycharmProjects\\DIP2\\test"
@@ -48,6 +81,7 @@ def huffman_codes(args):
 
         codes = huffman_encode(frequency)
 
+
         # write pixel #, length and huffman code to txt file
         with open("huffman.txt", "w") as f:
             for i in range(len(lut)):
@@ -59,32 +93,9 @@ def huffman_codes(args):
                             f.write("Pixel #: {}\t Pixel length: {}\t Binary value: {}\n".format(i, len(p[1]), p[1]))
         f.close()
 
-        holder = []
-        for i in range(len(lut)):
-            if lut[i] == 0 and probs[i] == 0.0:
-                continue
-            elif lut[i] == 0 and probs[i] != 0.0:
-                holder.append((probs[i], 0))
-            else:
-                for p in sorted(codes):
-                    if p[0] == lut[i]:
-                        holder.append((probs[i], len(p[1])))
+        Lavg = L_avg_bits(codes, lut, probs)
 
-        # Lavg bit length
-        Lavg = 0.0
-        for prob, length in holder:
-            Lavg += prob*length
-
-        # Compression Ratio
-        C = 8 / Lavg
-
-        # Entropy
-        sum = 0.0
-        for prob in probs:
-            if prob != 0:
-                sum += prob * math.log2(prob)
-
-        print("Lavg {:.2f} compression ratio {:.2f} entropy {:.2f}".format(Lavg, C, (sum * (-1))))
+        print("Lavg {:.2f} compression ratio {:.2f} entropy {:.2f}".format(Lavg, comp_R(Lavg), entropy(probs)))
 
     except cv.error as err:
         print(err)
