@@ -28,30 +28,24 @@ def help():
     print("Entropy and compression ration are then calculated")
 
 
-def L_avg_bits(codes, probability):
-    holder = []
-    for i in range(len(probability)):
-        for p in codes:
-            if p[0] == probability[i]:
-                holder.append((probability[i], len(p[1])))
-
+def L_avg_bits(codes):
     # Lavg bit length
     Lavg = 0.0
-    for prob, length in holder:
-        Lavg += prob * length
+    for probs in codes:
+        Lavg += probs[0] * len(probs[1])
 
     return Lavg
 
 
 def comp_R(avg):
+    # compression ratio from 8 bit / Lavg
     return 8 / avg
 
 
 def entropy(probs):
     sum = 0.0
     for prob in probs:
-        if prob != 0:
-            sum += prob * math.log2(prob)
+        sum += prob[0] * math.log2(prob[0])
 
     return sum * (-1)
 
@@ -87,9 +81,9 @@ def huffman_codes(args):
                             f.write("Pixel #: {}\t Pixel length: {}\t Binary value: {}\n".format(i, len(p[1]), p[1]))
         f.close()
 
-        Lavg = L_avg_bits(codes, probs)
+        Lavg = L_avg_bits(codes)
 
-        print("Lavg {:.2f} compression ratio {:.2f} entropy {:.2f}".format(Lavg, comp_R(Lavg), entropy(probs)))
+        print("Lavg {:.2f} compression ratio {:.2f} entropy {:.2f}".format(Lavg, comp_R(Lavg), entropy(codes)))
 
     except cv.error as err:
         print(err)
