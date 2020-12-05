@@ -1,0 +1,256 @@
+Pixel #: 0	 Pixel length: 0	 Binary value: 
+Pixel #: 1	 Pixel length: 0	 Binary value: 
+Pixel #: 2	 Pixel length: 0	 Binary value: 
+Pixel #: 3	 Pixel length: 0	 Binary value: 
+Pixel #: 4	 Pixel length: 0	 Binary value: 
+Pixel #: 5	 Pixel length: 0	 Binary value: 
+Pixel #: 6	 Pixel length: 0	 Binary value: 
+Pixel #: 7	 Pixel length: 0	 Binary value: 
+Pixel #: 8	 Pixel length: 0	 Binary value: 
+Pixel #: 9	 Pixel length: 0	 Binary value: 
+Pixel #: 10	 Pixel length: 0	 Binary value: 
+Pixel #: 11	 Pixel length: 0	 Binary value: 
+Pixel #: 12	 Pixel length: 0	 Binary value: 
+Pixel #: 13	 Pixel length: 0	 Binary value: 
+Pixel #: 14	 Pixel length: 0	 Binary value: 
+Pixel #: 15	 Pixel length: 0	 Binary value: 
+Pixel #: 16	 Pixel length: 0	 Binary value: 
+Pixel #: 17	 Pixel length: 0	 Binary value: 
+Pixel #: 18	 Pixel length: 0	 Binary value: 
+Pixel #: 19	 Pixel length: 0	 Binary value: 
+Pixel #: 20	 Pixel length: 0	 Binary value: 
+Pixel #: 21	 Pixel length: 0	 Binary value: 
+Pixel #: 22	 Pixel length: 0	 Binary value: 
+Pixel #: 23	 Pixel length: 0	 Binary value: 
+Pixel #: 24	 Pixel length: 0	 Binary value: 
+Pixel #: 25	 Pixel length: 0	 Binary value: 
+Pixel #: 26	 Pixel length: 0	 Binary value: 
+Pixel #: 27	 Pixel length: 0	 Binary value: 
+Pixel #: 28	 Pixel length: 0	 Binary value: 
+Pixel #: 29	 Pixel length: 0	 Binary value: 
+Pixel #: 30	 Pixel length: 0	 Binary value: 
+Pixel #: 31	 Pixel length: 0	 Binary value: 
+Pixel #: 32	 Pixel length: 0	 Binary value: 
+Pixel #: 33	 Pixel length: 0	 Binary value: 
+Pixel #: 34	 Pixel length: 0	 Binary value: 
+Pixel #: 35	 Pixel length: 0	 Binary value: 
+Pixel #: 36	 Pixel length: 0	 Binary value: 
+Pixel #: 37	 Pixel length: 0	 Binary value: 
+Pixel #: 38	 Pixel length: 0	 Binary value: 
+Pixel #: 39	 Pixel length: 0	 Binary value: 
+Pixel #: 40	 Pixel length: 0	 Binary value: 
+Pixel #: 41	 Pixel length: 0	 Binary value: 
+Pixel #: 42	 Pixel length: 0	 Binary value: 
+Pixel #: 43	 Pixel length: 0	 Binary value: 
+Pixel #: 44	 Pixel length: 0	 Binary value: 
+Pixel #: 45	 Pixel length: 0	 Binary value: 
+Pixel #: 46	 Pixel length: 0	 Binary value: 
+Pixel #: 47	 Pixel length: 0	 Binary value: 
+Pixel #: 48	 Pixel length: 0	 Binary value: 
+Pixel #: 49	 Pixel length: 0	 Binary value: 
+Pixel #: 50	 Pixel length: 0	 Binary value: 
+Pixel #: 51	 Pixel length: 0	 Binary value: 
+Pixel #: 52	 Pixel length: 0	 Binary value: 
+Pixel #: 53	 Pixel length: 0	 Binary value: 
+Pixel #: 54	 Pixel length: 0	 Binary value: 
+Pixel #: 55	 Pixel length: 0	 Binary value: 
+Pixel #: 56	 Pixel length: 0	 Binary value: 
+Pixel #: 57	 Pixel length: 0	 Binary value: 
+Pixel #: 58	 Pixel length: 0	 Binary value: 
+Pixel #: 59	 Pixel length: 5	 Binary value: 10011
+Pixel #: 60	 Pixel length: 5	 Binary value: 10011
+Pixel #: 61	 Pixel length: 5	 Binary value: 10011
+Pixel #: 62	 Pixel length: 5	 Binary value: 10011
+Pixel #: 63	 Pixel length: 5	 Binary value: 10011
+Pixel #: 64	 Pixel length: 5	 Binary value: 10011
+Pixel #: 65	 Pixel length: 5	 Binary value: 10011
+Pixel #: 66	 Pixel length: 6	 Binary value: 101010
+Pixel #: 67	 Pixel length: 6	 Binary value: 101010
+Pixel #: 68	 Pixel length: 6	 Binary value: 101010
+Pixel #: 69	 Pixel length: 6	 Binary value: 101010
+Pixel #: 70	 Pixel length: 7	 Binary value: 1001011
+Pixel #: 71	 Pixel length: 7	 Binary value: 1001011
+Pixel #: 72	 Pixel length: 6	 Binary value: 010110
+Pixel #: 73	 Pixel length: 6	 Binary value: 010110
+Pixel #: 74	 Pixel length: 6	 Binary value: 010110
+Pixel #: 75	 Pixel length: 7	 Binary value: 1010110
+Pixel #: 76	 Pixel length: 7	 Binary value: 1010110
+Pixel #: 77	 Pixel length: 7	 Binary value: 1010111
+Pixel #: 78	 Pixel length: 7	 Binary value: 1010111
+Pixel #: 79	 Pixel length: 8	 Binary value: 10110000
+Pixel #: 80	 Pixel length: 8	 Binary value: 10110001
+Pixel #: 81	 Pixel length: 7	 Binary value: 1011001
+Pixel #: 82	 Pixel length: 7	 Binary value: 1011001
+Pixel #: 83	 Pixel length: 8	 Binary value: 10110100
+Pixel #: 84	 Pixel length: 8	 Binary value: 10110101
+Pixel #: 85	 Pixel length: 8	 Binary value: 10110110
+Pixel #: 86	 Pixel length: 8	 Binary value: 10110111
+Pixel #: 87	 Pixel length: 8	 Binary value: 10111000
+Pixel #: 88	 Pixel length: 8	 Binary value: 10111001
+Pixel #: 89	 Pixel length: 8	 Binary value: 10111010
+Pixel #: 90	 Pixel length: 8	 Binary value: 10111011
+Pixel #: 91	 Pixel length: 8	 Binary value: 10111100
+Pixel #: 92	 Pixel length: 8	 Binary value: 10111101
+Pixel #: 93	 Pixel length: 8	 Binary value: 10111110
+Pixel #: 94	 Pixel length: 8	 Binary value: 10111111
+Pixel #: 95	 Pixel length: 8	 Binary value: 11000000
+Pixel #: 96	 Pixel length: 8	 Binary value: 11000001
+Pixel #: 97	 Pixel length: 8	 Binary value: 11000010
+Pixel #: 98	 Pixel length: 8	 Binary value: 11000011
+Pixel #: 99	 Pixel length: 8	 Binary value: 11000100
+Pixel #: 100	 Pixel length: 8	 Binary value: 11000101
+Pixel #: 101	 Pixel length: 8	 Binary value: 11000110
+Pixel #: 102	 Pixel length: 8	 Binary value: 11000111
+Pixel #: 103	 Pixel length: 8	 Binary value: 11001000
+Pixel #: 104	 Pixel length: 8	 Binary value: 11001001
+Pixel #: 105	 Pixel length: 8	 Binary value: 11001010
+Pixel #: 106	 Pixel length: 8	 Binary value: 11001011
+Pixel #: 107	 Pixel length: 8	 Binary value: 11001100
+Pixel #: 108	 Pixel length: 8	 Binary value: 11001101
+Pixel #: 109	 Pixel length: 8	 Binary value: 11001110
+Pixel #: 110	 Pixel length: 8	 Binary value: 11001111
+Pixel #: 111	 Pixel length: 8	 Binary value: 11010000
+Pixel #: 112	 Pixel length: 8	 Binary value: 11010001
+Pixel #: 113	 Pixel length: 8	 Binary value: 11010010
+Pixel #: 114	 Pixel length: 8	 Binary value: 11010011
+Pixel #: 115	 Pixel length: 8	 Binary value: 11010100
+Pixel #: 116	 Pixel length: 8	 Binary value: 11010101
+Pixel #: 117	 Pixel length: 8	 Binary value: 11010110
+Pixel #: 118	 Pixel length: 8	 Binary value: 11010111
+Pixel #: 119	 Pixel length: 8	 Binary value: 11011000
+Pixel #: 120	 Pixel length: 8	 Binary value: 11011001
+Pixel #: 121	 Pixel length: 8	 Binary value: 11011010
+Pixel #: 122	 Pixel length: 8	 Binary value: 11011011
+Pixel #: 123	 Pixel length: 8	 Binary value: 11011100
+Pixel #: 124	 Pixel length: 8	 Binary value: 11011101
+Pixel #: 125	 Pixel length: 8	 Binary value: 11011110
+Pixel #: 126	 Pixel length: 8	 Binary value: 11011111
+Pixel #: 127	 Pixel length: 8	 Binary value: 11100000
+Pixel #: 128	 Pixel length: 8	 Binary value: 11100001
+Pixel #: 129	 Pixel length: 8	 Binary value: 11100010
+Pixel #: 130	 Pixel length: 8	 Binary value: 11100011
+Pixel #: 131	 Pixel length: 8	 Binary value: 11100100
+Pixel #: 132	 Pixel length: 8	 Binary value: 11100101
+Pixel #: 133	 Pixel length: 8	 Binary value: 11100110
+Pixel #: 134	 Pixel length: 8	 Binary value: 11100111
+Pixel #: 135	 Pixel length: 7	 Binary value: 1110100
+Pixel #: 136	 Pixel length: 7	 Binary value: 1110100
+Pixel #: 137	 Pixel length: 8	 Binary value: 11101010
+Pixel #: 138	 Pixel length: 8	 Binary value: 11101011
+Pixel #: 139	 Pixel length: 8	 Binary value: 11101100
+Pixel #: 140	 Pixel length: 7	 Binary value: 1110111
+Pixel #: 141	 Pixel length: 7	 Binary value: 1110111
+Pixel #: 142	 Pixel length: 8	 Binary value: 11101101
+Pixel #: 143	 Pixel length: 7	 Binary value: 1111000
+Pixel #: 144	 Pixel length: 7	 Binary value: 1111000
+Pixel #: 145	 Pixel length: 8	 Binary value: 11110010
+Pixel #: 146	 Pixel length: 7	 Binary value: 1111010
+Pixel #: 147	 Pixel length: 7	 Binary value: 1111010
+Pixel #: 148	 Pixel length: 8	 Binary value: 11110011
+Pixel #: 149	 Pixel length: 8	 Binary value: 11110110
+Pixel #: 150	 Pixel length: 7	 Binary value: 1111100
+Pixel #: 151	 Pixel length: 7	 Binary value: 1111100
+Pixel #: 152	 Pixel length: 8	 Binary value: 11110111
+Pixel #: 153	 Pixel length: 7	 Binary value: 1111101
+Pixel #: 154	 Pixel length: 7	 Binary value: 1111101
+Pixel #: 155	 Pixel length: 7	 Binary value: 1111110
+Pixel #: 156	 Pixel length: 7	 Binary value: 1111110
+Pixel #: 157	 Pixel length: 8	 Binary value: 11111110
+Pixel #: 158	 Pixel length: 6	 Binary value: 000000
+Pixel #: 159	 Pixel length: 6	 Binary value: 000000
+Pixel #: 160	 Pixel length: 6	 Binary value: 000001
+Pixel #: 161	 Pixel length: 6	 Binary value: 000001
+Pixel #: 162	 Pixel length: 8	 Binary value: 11111111
+Pixel #: 163	 Pixel length: 6	 Binary value: 000010
+Pixel #: 164	 Pixel length: 6	 Binary value: 000010
+Pixel #: 165	 Pixel length: 6	 Binary value: 000011
+Pixel #: 166	 Pixel length: 6	 Binary value: 000011
+Pixel #: 167	 Pixel length: 6	 Binary value: 000100
+Pixel #: 168	 Pixel length: 6	 Binary value: 000100
+Pixel #: 169	 Pixel length: 6	 Binary value: 000101
+Pixel #: 170	 Pixel length: 6	 Binary value: 000101
+Pixel #: 171	 Pixel length: 6	 Binary value: 000110
+Pixel #: 172	 Pixel length: 6	 Binary value: 000110
+Pixel #: 173	 Pixel length: 6	 Binary value: 000111
+Pixel #: 174	 Pixel length: 6	 Binary value: 000111
+Pixel #: 175	 Pixel length: 6	 Binary value: 010111
+Pixel #: 176	 Pixel length: 6	 Binary value: 010111
+Pixel #: 177	 Pixel length: 6	 Binary value: 010111
+Pixel #: 178	 Pixel length: 6	 Binary value: 001000
+Pixel #: 179	 Pixel length: 6	 Binary value: 001000
+Pixel #: 180	 Pixel length: 6	 Binary value: 100000
+Pixel #: 181	 Pixel length: 6	 Binary value: 100000
+Pixel #: 182	 Pixel length: 6	 Binary value: 100000
+Pixel #: 183	 Pixel length: 6	 Binary value: 001001
+Pixel #: 184	 Pixel length: 6	 Binary value: 001001
+Pixel #: 185	 Pixel length: 6	 Binary value: 100001
+Pixel #: 186	 Pixel length: 6	 Binary value: 100001
+Pixel #: 187	 Pixel length: 6	 Binary value: 100001
+Pixel #: 188	 Pixel length: 6	 Binary value: 100010
+Pixel #: 189	 Pixel length: 6	 Binary value: 100010
+Pixel #: 190	 Pixel length: 6	 Binary value: 100010
+Pixel #: 191	 Pixel length: 6	 Binary value: 100011
+Pixel #: 192	 Pixel length: 6	 Binary value: 100011
+Pixel #: 193	 Pixel length: 6	 Binary value: 100011
+Pixel #: 194	 Pixel length: 6	 Binary value: 100100
+Pixel #: 195	 Pixel length: 6	 Binary value: 100100
+Pixel #: 196	 Pixel length: 6	 Binary value: 100100
+Pixel #: 197	 Pixel length: 5	 Binary value: 00101
+Pixel #: 198	 Pixel length: 5	 Binary value: 00101
+Pixel #: 199	 Pixel length: 5	 Binary value: 00101
+Pixel #: 200	 Pixel length: 5	 Binary value: 00101
+Pixel #: 201	 Pixel length: 5	 Binary value: 00110
+Pixel #: 202	 Pixel length: 5	 Binary value: 00110
+Pixel #: 203	 Pixel length: 5	 Binary value: 00110
+Pixel #: 204	 Pixel length: 5	 Binary value: 00110
+Pixel #: 205	 Pixel length: 5	 Binary value: 00111
+Pixel #: 206	 Pixel length: 5	 Binary value: 00111
+Pixel #: 207	 Pixel length: 5	 Binary value: 00111
+Pixel #: 208	 Pixel length: 5	 Binary value: 00111
+Pixel #: 209	 Pixel length: 5	 Binary value: 00111
+Pixel #: 210	 Pixel length: 5	 Binary value: 01010
+Pixel #: 211	 Pixel length: 5	 Binary value: 01010
+Pixel #: 212	 Pixel length: 5	 Binary value: 01010
+Pixel #: 213	 Pixel length: 5	 Binary value: 01010
+Pixel #: 214	 Pixel length: 5	 Binary value: 01010
+Pixel #: 215	 Pixel length: 5	 Binary value: 10100
+Pixel #: 216	 Pixel length: 5	 Binary value: 10100
+Pixel #: 217	 Pixel length: 5	 Binary value: 10100
+Pixel #: 218	 Pixel length: 5	 Binary value: 10100
+Pixel #: 219	 Pixel length: 5	 Binary value: 10100
+Pixel #: 220	 Pixel length: 5	 Binary value: 10100
+Pixel #: 221	 Pixel length: 5	 Binary value: 10100
+Pixel #: 222	 Pixel length: 4	 Binary value: 0100
+Pixel #: 223	 Pixel length: 4	 Binary value: 0100
+Pixel #: 224	 Pixel length: 4	 Binary value: 0100
+Pixel #: 225	 Pixel length: 4	 Binary value: 0100
+Pixel #: 226	 Pixel length: 4	 Binary value: 0100
+Pixel #: 227	 Pixel length: 4	 Binary value: 0100
+Pixel #: 228	 Pixel length: 4	 Binary value: 0100
+Pixel #: 229	 Pixel length: 4	 Binary value: 0100
+Pixel #: 230	 Pixel length: 4	 Binary value: 0100
+Pixel #: 231	 Pixel length: 3	 Binary value: 011
+Pixel #: 232	 Pixel length: 3	 Binary value: 011
+Pixel #: 233	 Pixel length: 3	 Binary value: 011
+Pixel #: 234	 Pixel length: 3	 Binary value: 011
+Pixel #: 235	 Pixel length: 3	 Binary value: 011
+Pixel #: 236	 Pixel length: 3	 Binary value: 011
+Pixel #: 237	 Pixel length: 3	 Binary value: 011
+Pixel #: 238	 Pixel length: 3	 Binary value: 011
+Pixel #: 239	 Pixel length: 3	 Binary value: 011
+Pixel #: 240	 Pixel length: 3	 Binary value: 011
+Pixel #: 241	 Pixel length: 3	 Binary value: 011
+Pixel #: 242	 Pixel length: 3	 Binary value: 011
+Pixel #: 243	 Pixel length: 3	 Binary value: 011
+Pixel #: 244	 Pixel length: 3	 Binary value: 011
+Pixel #: 245	 Pixel length: 3	 Binary value: 011
+Pixel #: 246	 Pixel length: 3	 Binary value: 011
+Pixel #: 247	 Pixel length: 3	 Binary value: 011
+Pixel #: 248	 Pixel length: 3	 Binary value: 011
+Pixel #: 249	 Pixel length: 3	 Binary value: 011
+Pixel #: 250	 Pixel length: 3	 Binary value: 011
+Pixel #: 251	 Pixel length: 3	 Binary value: 011
+Pixel #: 252	 Pixel length: 3	 Binary value: 011
+Pixel #: 253	 Pixel length: 3	 Binary value: 011
+Pixel #: 254	 Pixel length: 3	 Binary value: 011
+Pixel #: 255	 Pixel length: 7	 Binary value: 1001010
