@@ -28,10 +28,12 @@ def help():
     print("Entropy and compression ration are then calculated")
 
 
-def L_avg_bits(codes, probs):
+def L_avg_bits(codes, probability):
     holder = []
-    for p in codes:
-        holder.append((probs[p[0]], len(p[1])))
+    for i in range(len(probability)):
+        for p in codes:
+            if p[0] == probability[i]:
+                holder.append((probability[i], len(p[1])))
 
     # Lavg bit length
     Lavg = 0.0
@@ -66,22 +68,22 @@ def huffman_codes(args):
         frequency = defaultdict(int)
 
         # Frequency count of pixel intensities
-        for num in lut:
+        for num in probs:
             frequency[num] += 1
 
         # Remove zeros from frequency count
-        del frequency[0]
+        del frequency[0.0]
 
         codes = huffman_encode(frequency)
 
         # write pixel #, length and huffman code to txt file
         with open("huffman.txt", "w") as f:
-            for i in range(len(lut)):
-                if lut[i] == 0:
+            for i in range(len(probs)):
+                if probs[i] == 0.0:
                     f.write("Pixel #: {}\t Pixel length: {}\t Binary value: {}\n".format(i, 0, ''))
                 else:
                     for p in sorted(codes):
-                        if p[0] == lut[i]:
+                        if p[0] == probs[i]:
                             f.write("Pixel #: {}\t Pixel length: {}\t Binary value: {}\n".format(i, len(p[1]), p[1]))
         f.close()
 
